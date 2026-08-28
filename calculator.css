@@ -1,0 +1,15 @@
+button {
+  padding: 4px 6px 4px 6px;
+  margin-right: 3px;
+}
+
+p {
+  padding: 4px 4px 4px 4px;
+}
+
+.cal-box{
+  background-color: rgb(179, 186, 186);
+  width: 120px;
+  padding-left: 10px;
+  border: solid 2px rgb(75, 75, 170);
+}

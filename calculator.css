@@ -1,3 +1,8 @@
+body {
+  place-items: center;
+  background-color: rgb(29, 29, 29);
+}
+
 button {
   padding: 4px 6px 4px 6px;
   margin-right: 3px;
@@ -7,9 +12,25 @@ p {
   padding: 4px 4px 4px 4px;
 }
 
-.cal-box{
+p button {
+  font-size: 1.2rem;
+}
+
+h2 {
+  font-size: 1.2rem;
+  color: whitesmoke;
+}
+
+.cal-box {
   background-color: rgb(179, 186, 186);
-  width: 120px;
+  text-align: center;
+  width: 175px;
   padding-left: 10px;
-  border: solid 2px rgb(75, 75, 170);
+  border: solid 3px rgb(55, 55, 241);
+  border-radius: 8px;
+}
+
+.js-cal {
+  color: whitesmoke;
+  font-size: 1rem;
 }
